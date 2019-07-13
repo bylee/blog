@@ -1,3 +1,6 @@
 [submodule "_sites"]
 	path = _sites
 	url = git://github.com/bylee/blog
+[submodule "_site"]
+	path = _site
+	url = git://github.com/bylee/blog
