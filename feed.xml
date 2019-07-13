@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://bylee.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bylee.github.io/blog/" rel="alternate" type="text/html" /><updated>2019-07-13T16:20:54+09:00</updated><id>https://bylee.github.io/blog/feed.xml</id><title type="html">DOO</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Bonyong Lee</name></author><entry><title type="html">블로그 시작하기</title><link href="https://bylee.github.io/blog/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="블로그 시작하기" /><published>2019-07-12T13:56:21+09:00</published><updated>2019-07-12T13:56:21+09:00</updated><id>https://bylee.github.io/blog/blog/welcome-to-jekyll</id><content type="html" xml:base="https://bylee.github.io/blog/blog/welcome-to-jekyll/">&lt;h1 id=&quot;글을-어디에-쓸까&quot;&gt;글을 어디에 쓸까?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://bylee.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bylee.github.io/blog/" rel="alternate" type="text/html" /><updated>2019-07-13T17:12:59+09:00</updated><id>https://bylee.github.io/blog/feed.xml</id><title type="html">DOO</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Bonyong Lee</name></author><entry><title type="html">블로그 시작하기</title><link href="https://bylee.github.io/blog/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="블로그 시작하기" /><published>2019-07-12T13:56:21+09:00</published><updated>2019-07-12T13:56:21+09:00</updated><id>https://bylee.github.io/blog/blog/welcome-to-jekyll</id><content type="html" xml:base="https://bylee.github.io/blog/blog/welcome-to-jekyll/">&lt;h1 id=&quot;글을-어디에-쓸까&quot;&gt;글을 어디에 쓸까?&lt;/h1&gt;
 &lt;p&gt;처음에는 미디엄이나 브런치에 쓰려고 했는데, 생각보다 자유도가 떨어진다는 것을 알고나서 아예 정적 페이지 생성기쪽으로 생각을 바꿜다. 요즘 뜨고 있는 게츠비를 고려했는데, 커스터마이징이나 문제 해결에 시간을 쓰다보면 주객인 전도될 것같아 지킬로 작성해서 깃헙에 올리기로 하였다.&lt;/p&gt;
 
 &lt;h2 id=&quot;지킬이란&quot;&gt;지킬이란?&lt;/h2&gt;
@@ -36,9 +36,9 @@
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;gem &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;bundler jekyll&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;지킬 설치가 끝났다면, 지킬로 홈페이지를 생성할 차례이다. 지킬로 생성할 사이트의 이름은 bylee.github.io 인데, github에 호스팅하기 위한 이름이다.&lt;/p&gt;
+&lt;p&gt;지킬 설치가 끝났다면, 지킬로 홈페이지를 생성할 차례이다. 지킬로 생성할 사이트의 이름은 blog 인데, github에 호스팅될 것이다.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll new bylee.github.io&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll new blog&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-jekyll01.png&quot; alt=&quot;Generate site using Jekyll&quot; title=&quot;Generate site using Jekyll&quot; /&gt;&lt;/p&gt;
 
@@ -47,14 +47,14 @@
 &lt;h1 id=&quot;깃헙에-게시하기&quot;&gt;깃헙에 게시하기&lt;/h1&gt;
 &lt;p&gt;생성된 사이트를 깃헙에 게시하려면 간단히 다음 명령으로 가능하다.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;bylee.github.io
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;blog
 &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git init
 &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git add &lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
 &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git commit &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Initial commit&quot;&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git remote add origin git@github.com:bylee/bylee.github.io.git
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git remote add origin git@github.com:bylee/blog.git
 &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git push &lt;span class=&quot;nt&quot;&gt;-u&lt;/span&gt; origin master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;정상적으로 깃헙에 올라갔다면 브라우져로 &lt;a href=&quot;https://bylee.github.io&quot; target=&quot;_blank&quot;&gt;https://bylee.github.io&lt;/a&gt;으로 접속해보자&lt;/p&gt;
+&lt;p&gt;정상적으로 깃헙에 올라갔다면 브라우져로 &lt;a href=&quot;https://bylee.github.io/blog&quot; target=&quot;_blank&quot;&gt;https://bylee.github.io/blog&lt;/a&gt;으로 접속해보자&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-jekyll02.png&quot; alt=&quot;Published blog&quot; title=&quot;Published blog&quot; /&gt;&lt;/p&gt;
 

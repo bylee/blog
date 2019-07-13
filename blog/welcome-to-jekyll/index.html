@@ -296,9 +296,9 @@
 
 <figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>gem <span class="nb">install </span>bundler jekyll</code></pre></figure>
 
-<p>지킬 설치가 끝났다면, 지킬로 홈페이지를 생성할 차례이다. 지킬로 생성할 사이트의 이름은 bylee.github.io 인데, github에 호스팅하기 위한 이름이다.</p>
+<p>지킬 설치가 끝났다면, 지킬로 홈페이지를 생성할 차례이다. 지킬로 생성할 사이트의 이름은 blog 인데, github에 호스팅될 것이다.</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>jekyll new bylee.github.io</code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>jekyll new blog</code></pre></figure>
 
 <p><img src="/assets/images/welcome-to-jekyll/install-jekyll01.png" alt="Generate site using Jekyll" title="Generate site using Jekyll" /></p>
 
@@ -307,14 +307,14 @@
 <h1 id="깃헙에-게시하기">깃헙에 게시하기</h1>
 <p>생성된 사이트를 깃헙에 게시하려면 간단히 다음 명령으로 가능하다.</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span><span class="nb">cd </span>bylee.github.io
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span><span class="nb">cd </span>blog
 <span class="nv">$ </span>git init
 <span class="nv">$ </span>git add <span class="nb">.</span>
 <span class="nv">$ </span>git commit <span class="nt">-m</span> <span class="s2">"Initial commit"</span>
-<span class="nv">$ </span>git remote add origin git@github.com:bylee/bylee.github.io.git
+<span class="nv">$ </span>git remote add origin git@github.com:bylee/blog.git
 <span class="nv">$ </span>git push <span class="nt">-u</span> origin master</code></pre></figure>
 
-<p>정상적으로 깃헙에 올라갔다면 브라우져로 <a href="https://bylee.github.io" target="_blank">https://bylee.github.io</a>으로 접속해보자</p>
+<p>정상적으로 깃헙에 올라갔다면 브라우져로 <a href="https://bylee.github.io/blog" target="_blank">https://bylee.github.io/blog</a>으로 접속해보자</p>
 
 <p><img src="/assets/images/welcome-to-jekyll/install-jekyll02.png" alt="Published blog" title="Published blog" /></p>
 
