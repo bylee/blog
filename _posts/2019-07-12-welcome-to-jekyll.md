@@ -45,10 +45,10 @@ tags: life jekyll
 $ gem install bundler jekyll
 {% endhighlight %}
 
-지킬 설치가 끝났다면, 지킬로 홈페이지를 생성할 차례이다. 지킬로 생성할 사이트의 이름은 bylee.github.io 인데, github에 호스팅하기 위한 이름이다.
+지킬 설치가 끝났다면, 지킬로 홈페이지를 생성할 차례이다. 지킬로 생성할 사이트의 이름은 blog 인데, github에 호스팅될 것이다.
 
 {% highlight bash %}
-$ jekyll new bylee.github.io
+$ jekyll new blog
 {% endhighlight %}
 
 ![Generate site using Jekyll](/assets/images/welcome-to-jekyll/install-jekyll01.png "Generate site using Jekyll")
@@ -59,19 +59,19 @@ $ jekyll new bylee.github.io
 생성된 사이트를 깃헙에 게시하려면 간단히 다음 명령으로 가능하다.
 
 {% highlight bash %}
-$ cd bylee.github.io
+$ cd blog
 $ git init
 $ git add .
 $ git commit -m "Initial commit"
-$ git remote add origin git@github.com:bylee/bylee.github.io.git
+$ git remote add origin git@github.com:bylee/blog.git
 $ git push -u origin master
 {% endhighlight %}
 
-정상적으로 깃헙에 올라갔다면 브라우져로 [https://bylee.github.io][myblog]{:target="_blank"}으로 접속해보자
+정상적으로 깃헙에 올라갔다면 브라우져로 [https://bylee.github.io/blog][myblog]{:target="_blank"}으로 접속해보자
 
 ![Published blog](/assets/images/welcome-to-jekyll/install-jekyll02.png "Published blog")
 
 정상적으로 게시된 블로그를 볼 수 있다.
 
 [rubyinstaller]: https://rubyinstaller.org
-[myblog]: https://bylee.github.io
+[myblog]: https://bylee.github.io/blog
