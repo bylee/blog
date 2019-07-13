@@ -1,3 +1,4 @@
 [submodule "_site"]
 	path = _site
 	url = git://blocko.github.com/bylee/blog
+  branch = gh-pages
