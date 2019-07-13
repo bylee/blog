@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://bylee.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bylee.github.io/blog/" rel="alternate" type="text/html" /><updated>2019-07-13T17:12:59+09:00</updated><id>https://bylee.github.io/blog/feed.xml</id><title type="html">DOO</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Bonyong Lee</name></author><entry><title type="html">블로그 시작하기</title><link href="https://bylee.github.io/blog/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="블로그 시작하기" /><published>2019-07-12T13:56:21+09:00</published><updated>2019-07-12T13:56:21+09:00</updated><id>https://bylee.github.io/blog/blog/welcome-to-jekyll</id><content type="html" xml:base="https://bylee.github.io/blog/blog/welcome-to-jekyll/">&lt;h1 id=&quot;글을-어디에-쓸까&quot;&gt;글을 어디에 쓸까?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://bylee.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bylee.github.io/blog/" rel="alternate" type="text/html" /><updated>2019-07-13T17:15:11+09:00</updated><id>https://bylee.github.io/blog/feed.xml</id><title type="html">DOO</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Bonyong Lee</name></author><entry><title type="html">블로그 시작하기</title><link href="https://bylee.github.io/blog/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="블로그 시작하기" /><published>2019-07-12T13:56:21+09:00</published><updated>2019-07-12T13:56:21+09:00</updated><id>https://bylee.github.io/blog/blog/welcome-to-jekyll</id><content type="html" xml:base="https://bylee.github.io/blog/blog/welcome-to-jekyll/">&lt;h1 id=&quot;글을-어디에-쓸까&quot;&gt;글을 어디에 쓸까?&lt;/h1&gt;
 &lt;p&gt;처음에는 미디엄이나 브런치에 쓰려고 했는데, 생각보다 자유도가 떨어진다는 것을 알고나서 아예 정적 페이지 생성기쪽으로 생각을 바꿜다. 요즘 뜨고 있는 게츠비를 고려했는데, 커스터마이징이나 문제 해결에 시간을 쓰다보면 주객인 전도될 것같아 지킬로 작성해서 깃헙에 올리기로 하였다.&lt;/p&gt;
 
 &lt;h2 id=&quot;지킬이란&quot;&gt;지킬이란?&lt;/h2&gt;
@@ -6,7 +6,7 @@
 
 &lt;p&gt;지킬 사이트에 들어가 보면 간단한 명령어 몇 개로 사이트를 생성할 수 있음을 알 수 있다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/intro-jekyll.png&quot; alt=&quot;Jekyll site&quot; title=&quot;Jekyll site&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/intro-jekyll.png&quot; alt=&quot;Jekyll site&quot; title=&quot;Jekyll site&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그런데, 첫번째 명령은 루비의 gem을 사용하는 것이다. 우선 루비를 설치해야겠군.&lt;/p&gt;
 
@@ -14,22 +14,22 @@
 
 &lt;p&gt;루비 설치를 위해 &lt;a href=&quot;https://rubyinstaller.org&quot; target=&quot;_blank&quot;&gt;https://rubyinstaller.org&lt;/a&gt;에 들어가보면, 큼지막하게 Download라는 버튼을 볼 수 있다. 눌러보자.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-ruby01.png&quot; alt=&quot;Install ruby #1&quot; title=&quot;Install ruby #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/install-ruby01.png&quot; alt=&quot;Install ruby #1&quot; title=&quot;Install ruby #1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;다운로드를 위한 링크들이 보이고, Ruby+Devkit 2.5.X (x64) 를 추천한다는 문구가 보인다. 왼쪽에 추천하는 버젼의 링크가 눈에 띄인다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-ruby02.png&quot; alt=&quot;Install ruby #2&quot; title=&quot;Install ruby #2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/install-ruby02.png&quot; alt=&quot;Install ruby #2&quot; title=&quot;Install ruby #2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;다운로드 후에 설치 프로그램을 실행해보자. 사용 동의를 요구하는 화면이 나타나면 동의를 선택하고, Next 버튼을 누른다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-ruby03.png&quot; alt=&quot;Install ruby #3&quot; title=&quot;Install ruby #3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/install-ruby03.png&quot; alt=&quot;Install ruby #3&quot; title=&quot;Install ruby #3&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;이후에 계속 Next 버튼을 누르면, 설치가 성공했다는 메시지와 함께 툴체인 설치를 할지 물어본다. 툴체인은 루비가 아닌 c나 c++를 빌드하는데 필요한 프로그램이라고 이해하면 된다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-ruby04.png&quot; alt=&quot;Install ruby #4&quot; title=&quot;Install ruby#4&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/install-ruby04.png&quot; alt=&quot;Install ruby #4&quot; title=&quot;Install ruby#4&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;나는 나중을 위해 msys2와 mingw 툴체인 모두 설치하였다. 필요에 따라 선택하면 된다.
-&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-ruby05.png&quot; alt=&quot;Install ruby #5&quot; title=&quot;Install ruby#5&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/install-ruby05.png&quot; alt=&quot;Install ruby #5&quot; title=&quot;Install ruby#5&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;jekyll-설치하기&quot;&gt;Jekyll 설치하기&lt;/h1&gt;
 &lt;p&gt;이제 지킬을 설치해보자. 홈페이지에 나와있는 것처럼, 다음 명령으로 설치할 수 있다.&lt;/p&gt;
@@ -40,7 +40,7 @@
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll new blog&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-jekyll01.png&quot; alt=&quot;Generate site using Jekyll&quot; title=&quot;Generate site using Jekyll&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/install-jekyll01.png&quot; alt=&quot;Generate site using Jekyll&quot; title=&quot;Generate site using Jekyll&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;이것으로 사이트 생성까지 끝났다.&lt;/p&gt;
 
@@ -56,6 +56,6 @@
 
 &lt;p&gt;정상적으로 깃헙에 올라갔다면 브라우져로 &lt;a href=&quot;https://bylee.github.io/blog&quot; target=&quot;_blank&quot;&gt;https://bylee.github.io/blog&lt;/a&gt;으로 접속해보자&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/welcome-to-jekyll/install-jekyll02.png&quot; alt=&quot;Published blog&quot; title=&quot;Published blog&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/install-jekyll02.png&quot; alt=&quot;Published blog&quot; title=&quot;Published blog&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;정상적으로 게시된 블로그를 볼 수 있다.&lt;/p&gt;</content><author><name>Bonyong Lee</name></author><category term="life" /><category term="jekyll" /><summary type="html">글을 어디에 쓸까? 처음에는 미디엄이나 브런치에 쓰려고 했는데, 생각보다 자유도가 떨어진다는 것을 알고나서 아예 정적 페이지 생성기쪽으로 생각을 바꿜다. 요즘 뜨고 있는 게츠비를 고려했는데, 커스터마이징이나 문제 해결에 시간을 쓰다보면 주객인 전도될 것같아 지킬로 작성해서 깃헙에 올리기로 하였다.</summary></entry></feed>
