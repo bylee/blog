@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://bylee.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bylee.github.io/blog/" rel="alternate" type="text/html" /><updated>2019-07-13T17:15:11+09:00</updated><id>https://bylee.github.io/blog/feed.xml</id><title type="html">DOO</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Bonyong Lee</name></author><entry><title type="html">블로그 시작하기</title><link href="https://bylee.github.io/blog/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="블로그 시작하기" /><published>2019-07-12T13:56:21+09:00</published><updated>2019-07-12T13:56:21+09:00</updated><id>https://bylee.github.io/blog/blog/welcome-to-jekyll</id><content type="html" xml:base="https://bylee.github.io/blog/blog/welcome-to-jekyll/">&lt;h1 id=&quot;글을-어디에-쓸까&quot;&gt;글을 어디에 쓸까?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://bylee.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bylee.github.io/blog/" rel="alternate" type="text/html" /><updated>2019-07-15T10:46:08+09:00</updated><id>https://bylee.github.io/blog/feed.xml</id><title type="html">DOO</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Bonyong Lee</name></author><entry><title type="html">블로그 시작하기</title><link href="https://bylee.github.io/blog/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="블로그 시작하기" /><published>2019-07-12T13:56:21+09:00</published><updated>2019-07-12T13:56:21+09:00</updated><id>https://bylee.github.io/blog/blog/welcome-to-jekyll</id><content type="html" xml:base="https://bylee.github.io/blog/blog/welcome-to-jekyll/">&lt;h1 id=&quot;글을-어디에-쓸까&quot;&gt;글을 어디에 쓸까?&lt;/h1&gt;
 &lt;p&gt;처음에는 미디엄이나 브런치에 쓰려고 했는데, 생각보다 자유도가 떨어진다는 것을 알고나서 아예 정적 페이지 생성기쪽으로 생각을 바꿜다. 요즘 뜨고 있는 게츠비를 고려했는데, 커스터마이징이나 문제 해결에 시간을 쓰다보면 주객인 전도될 것같아 지킬로 작성해서 깃헙에 올리기로 하였다.&lt;/p&gt;
 
 &lt;h2 id=&quot;지킬이란&quot;&gt;지킬이란?&lt;/h2&gt;
@@ -58,4 +58,46 @@
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/images/welcome-to-jekyll/install-jekyll02.png&quot; alt=&quot;Published blog&quot; title=&quot;Published blog&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;정상적으로 게시된 블로그를 볼 수 있다.&lt;/p&gt;</content><author><name>Bonyong Lee</name></author><category term="life" /><category term="jekyll" /><summary type="html">글을 어디에 쓸까? 처음에는 미디엄이나 브런치에 쓰려고 했는데, 생각보다 자유도가 떨어진다는 것을 알고나서 아예 정적 페이지 생성기쪽으로 생각을 바꿜다. 요즘 뜨고 있는 게츠비를 고려했는데, 커스터마이징이나 문제 해결에 시간을 쓰다보면 주객인 전도될 것같아 지킬로 작성해서 깃헙에 올리기로 하였다.</summary></entry></feed>
+&lt;p&gt;정상적으로 게시된 블로그를 볼 수 있다.&lt;/p&gt;</content><author><name>Bonyong Lee</name></author><category term="life" /><category term="jekyll" /><summary type="html">글을 어디에 쓸까? 처음에는 미디엄이나 브런치에 쓰려고 했는데, 생각보다 자유도가 떨어진다는 것을 알고나서 아예 정적 페이지 생성기쪽으로 생각을 바꿜다. 요즘 뜨고 있는 게츠비를 고려했는데, 커스터마이징이나 문제 해결에 시간을 쓰다보면 주객인 전도될 것같아 지킬로 작성해서 깃헙에 올리기로 하였다.</summary></entry><entry><title type="html">제주에서 첫 일주일</title><link href="https://bylee.github.io/blog/jeju/start-jeju-life/" rel="alternate" type="text/html" title="제주에서 첫 일주일" /><published>2019-07-01T17:56:21+09:00</published><updated>2019-07-01T17:56:21+09:00</updated><id>https://bylee.github.io/blog/jeju/start-jeju-life</id><content type="html" xml:base="https://bylee.github.io/blog/jeju/start-jeju-life/">&lt;h1 id=&quot;제주-한달-살이&quot;&gt;제주 한달 살이&lt;/h1&gt;
+&lt;p&gt;무료한 생활에 변화를 주려고, 제주에서 한달간 살기로 했다. 회사가 제주에 지사를 가지고 있고, 직원들의 지원을 받아 돌아가면서 파견을 가는 근무 형태이다. 사실, 개발직은 장소나 시간에 크게 구애받지 않기 때문에 큰문제는 없다. 이번 주 월요일에 도착하였는데, 갑자기 급한 업무로 주말에야 글을 쓰게 되었다.&lt;/p&gt;
+
+&lt;p&gt;첫날은 도착해서 렌트카를 빌리고 정신없이 인수인계를 하고 나니 저녁이 돼버려서 주변을 돌아볼 여유가 없었다. 다음날 아침에 주위도 둘러볼 겸 산책을 나섰다.&lt;/p&gt;
+
+&lt;p&gt;센터는 단지내에서도 꼭대기 부분에 있어서 다른 곳으로 가보려면 내리막을 걸어야했다. 물론 돌아올 때는 오르막 길이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/start-jeju-life/walk-around01.jpg&quot; alt=&quot;Around view&quot; title=&quot;Around view&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;내려가다 보니 카카오 건물도 보인다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/start-jeju-life/walk-around02.jpg&quot; alt=&quot;Kakao&quot; title=&quot;Kakao&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;한참을 내려가서 찾은 해장국 집에서 아침을 먹었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/start-jeju-life/walk-around03.jpg&quot; alt=&quot;!Breakfast&quot; title=&quot;Breakfast&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;나쁘지 않은 첫날이었다. 그렇게 지내다 보니 어느덧 일주일이 지났다. 일주일간의 소감을 말하자면, 예전에 잠깐 살았던 때나 혼자 여행을 했을 때, 그리고 가족 여행을 왔을 때랑은 또 다른 느낌이다. 놀러온 것이 아니라서 그런 것인지 한달살이라 그런지 모르겠다.&lt;/p&gt;
+
+&lt;p&gt;내일의 여행지를 찾아 설레는 날보다는 저녁거리나 내일 아침 거리를 걱정하게 되는 삶이다. 참고로 말하자면, 여기 구내 식당 맛은 상상이상으로 맛이 없다. 내가 맛집을 좋아하긴 하지만, 또 맛이 없더라도 그럭저럭 잘 먹는 편인데 여기 구내식당은 좀 심한 편이다. 그래서, 마트에서 밑반찬을 사와서 직접 밥을 해먹는다. 이것 저것 해먹을 수 있으면 좋겠지만 안타깝게도 조리시설이 없다. 사실 그렇게 불편하거나 싫은 것은 아니고 자취하는 생각도 나고 해서 사실 좋은 느낌이다.&lt;/p&gt;
+
+&lt;p&gt;한가지 불편한 점이 있다면, 숙소에 Wifi가 되지 않는다. 여기가 과연 2019년의 대한민국인가 하는 생각이 든다. 요즘에는 동남아의 허름한 숙소에도 wifi는 되는데… 결국, LTE를 아껴 쓰는 수 밖에 방법이 없다. 그 외에는 특별히 불편한 것없이 아주 만족스럽다.&lt;/p&gt;
+
+&lt;h1 id=&quot;애프터-글로우&quot;&gt;애프터 글로우&lt;/h1&gt;
+&lt;p&gt;도착한 날부터 갑자기 급한 일을 처리하게 된 데다가 화요일부터 목요일까지 비가 와서 센터에 박혀 있었다. 생활에 채 적응하기도 전이라 숙소에 돌아오면 곯아떨어졌다. 간만에 날이 좋아져서 외출을 좀 할까 하다 마침 눈에 띄는게 있었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/start-jeju-life/cafe01.jpg&quot; alt=&quot;!Cafe Pamphlet&quot; title=&quot;Cafe Pamphlet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;제주에서 원격 근무를 하기 좋은 카페들을 소개하는 팜플렛이다. 펼쳐보면, 앞면은 위치와 이름을 한눈에 정리하였고, 뒷면은 주요 카페들 몇몇을 소개하였다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/start-jeju-life/cafe02.jpg&quot; alt=&quot;!Cafe Pamphlet&quot; title=&quot;Cafe Pamphlet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/start-jeju-life/cafe03.jpg&quot; alt=&quot;!Cafe Pamphlet&quot; title=&quot;Cafe Pamphlet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;가까운 데를 찾아보니 &lt;a href=&quot;https://www.instagram.com/afterglow.coffee/?hl=ko&quot;&gt;애프터 글로우&lt;/a&gt;라는 카페가 있어서, 점심을 먹고 그곳에서 업무를 보았다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/start-jeju-life/cafe04.jpg&quot; alt=&quot;!afterflow&quot; title=&quot;afterglow&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;주차장이 있어서 편리하긴 한데, 나중에 차에 타려니 뜨끈하게 데워져있어서 곤혹스러웠다.&lt;/p&gt;
+
+&lt;p&gt;분위기는 약간의 소음이 있기는 했는데, 집중을 방해하는 정도는 아니었다. 사람도 많지 않고, 정원이 있어서 일하다 고개를 들어보면 눈이 휴식하는 느낌이 든다.&lt;/p&gt;
+
+&lt;p&gt;노트북 전원을 가져가지 않아서 오래있지는 않았지만, 다음에는 좀 더 오래 머무르고 싶다.&lt;/p&gt;</content><author><name>Bonyong Lee</name></author><category term="life" /><category term="jeju" /><category term="cafe" /><summary type="html">제주 한달 살이 무료한 생활에 변화를 주려고, 제주에서 한달간 살기로 했다. 회사가 제주에 지사를 가지고 있고, 직원들의 지원을 받아 돌아가면서 파견을 가는 근무 형태이다. 사실, 개발직은 장소나 시간에 크게 구애받지 않기 때문에 큰문제는 없다. 이번 주 월요일에 도착하였는데, 갑자기 급한 업무로 주말에야 글을 쓰게 되었다.</summary></entry></feed>
