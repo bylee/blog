@@ -13,7 +13,7 @@ tags: life jekyll
 
 지킬 사이트에 들어가 보면 간단한 명령어 몇 개로 사이트를 생성할 수 있음을 알 수 있다.
 
-![Jekyll site](/assets/images/welcome-to-jekyll/intro-jekyll.png "Jekyll site")
+![Jekyll site](/blog/assets/images/welcome-to-jekyll/intro-jekyll.png "Jekyll site")
 
 그런데, 첫번째 명령은 루비의 gem을 사용하는 것이다. 우선 루비를 설치해야겠군.
 
@@ -21,22 +21,22 @@ tags: life jekyll
 
 루비 설치를 위해 [https://rubyinstaller.org][rubyinstaller]{:target="_blank"}에 들어가보면, 큼지막하게 Download라는 버튼을 볼 수 있다. 눌러보자.
 
-![Install ruby #1](/assets/images/welcome-to-jekyll/install-ruby01.png "Install ruby #1")
+![Install ruby #1](/blog/assets/images/welcome-to-jekyll/install-ruby01.png "Install ruby #1")
 
 다운로드를 위한 링크들이 보이고, Ruby+Devkit 2.5.X (x64) 를 추천한다는 문구가 보인다. 왼쪽에 추천하는 버젼의 링크가 눈에 띄인다.
 
-![Install ruby #2](/assets/images/welcome-to-jekyll/install-ruby02.png "Install ruby #2")
+![Install ruby #2](/blog/assets/images/welcome-to-jekyll/install-ruby02.png "Install ruby #2")
 
 다운로드 후에 설치 프로그램을 실행해보자. 사용 동의를 요구하는 화면이 나타나면 동의를 선택하고, Next 버튼을 누른다.
 
-![Install ruby #3](/assets/images/welcome-to-jekyll/install-ruby03.png "Install ruby #3")
+![Install ruby #3](/blog/assets/images/welcome-to-jekyll/install-ruby03.png "Install ruby #3")
 
 이후에 계속 Next 버튼을 누르면, 설치가 성공했다는 메시지와 함께 툴체인 설치를 할지 물어본다. 툴체인은 루비가 아닌 c나 c++를 빌드하는데 필요한 프로그램이라고 이해하면 된다.
 
-![Install ruby #4](/assets/images/welcome-to-jekyll/install-ruby04.png "Install ruby#4")
+![Install ruby #4](/blog/assets/images/welcome-to-jekyll/install-ruby04.png "Install ruby#4")
 
 나는 나중을 위해 msys2와 mingw 툴체인 모두 설치하였다. 필요에 따라 선택하면 된다.
-![Install ruby #5](/assets/images/welcome-to-jekyll/install-ruby05.png "Install ruby#5")
+![Install ruby #5](/blog/assets/images/welcome-to-jekyll/install-ruby05.png "Install ruby#5")
 
 # Jekyll 설치하기
 이제 지킬을 설치해보자. 홈페이지에 나와있는 것처럼, 다음 명령으로 설치할 수 있다.
@@ -51,7 +51,7 @@ $ gem install bundler jekyll
 $ jekyll new blog
 {% endhighlight %}
 
-![Generate site using Jekyll](/assets/images/welcome-to-jekyll/install-jekyll01.png "Generate site using Jekyll")
+![Generate site using Jekyll](/blog/assets/images/welcome-to-jekyll/install-jekyll01.png "Generate site using Jekyll")
 
 이것으로 사이트 생성까지 끝났다.
 
@@ -69,7 +69,7 @@ $ git push -u origin master
 
 정상적으로 깃헙에 올라갔다면 브라우져로 [https://bylee.github.io/blog][myblog]{:target="_blank"}으로 접속해보자
 
-![Published blog](/assets/images/welcome-to-jekyll/install-jekyll02.png "Published blog")
+![Published blog](/blog/assets/images/welcome-to-jekyll/install-jekyll02.png "Published blog")
 
 정상적으로 게시된 블로그를 볼 수 있다.
 
